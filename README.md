@@ -94,7 +94,8 @@ Output Waveform
 
 
 Tabulation
-<img width="1580" height="700" alt="image" src="https://github.com/user-attachments/assets/7f9c3d05-fc7a-4b23-864e-b069effe6274" />
+<img width="1596" height="700" alt="image" src="https://github.com/user-attachments/assets/509e9776-64c5-492d-b880-1973918b2bc3" />
+
 
 
 
@@ -103,7 +104,7 @@ Calculation
 
 
 
-Frequency Deviation Practical = 
+Frequency Deviation Practical = 2576.59
 
 Modulation Index Practical	= 5.9
 
